@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/alexvirus90/learn_react/issues"
   },
-  "homepage": "https://github.com/alexvirus90/learn_react#readme"
+  "homepage": "https://github.com/alexvirus90/learn_react#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "webpack": "^3.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.2.0"
+  }
 }
