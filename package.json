@@ -21,8 +21,7 @@
   },
   "homepage": "https://github.com/alexvirus90/learn_react#readme",
   "dependencies": {
-    "jquery": "^3.2.1",
-    "webpack": "^3.2.0"
+    "jquery": "^3.2.1"
   },
   "devDependencies": {
     "webpack": "^3.2.0"
