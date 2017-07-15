@@ -4,6 +4,9 @@
   "description": "Learn React",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
+    "start": "webpack ./src/index.js ./public/bundle.js",
+    "lint": "eslint ./src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,6 +27,7 @@
     "jquery": "^3.2.1"
   },
   "devDependencies": {
+    "eslint": "^4.2.0",
     "webpack": "^3.2.0"
   }
 }
